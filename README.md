@@ -14,4 +14,4 @@ Create a program that saves the current date and time to a text file.
 
 5. Saving data from objects:
 Create a class representing a product (with fields such as name, price, number of pieces) and
-create several objects of this class. Then save these objects to a file.
+create several objects of this class. Then save these objects to a file...
